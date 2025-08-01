@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+To commit to a git repository:
+1. git add -A
+2. git commit -m "log what changes you made here"
+3. git push origin main
+
 First, run the development server:
 
 ```bash
